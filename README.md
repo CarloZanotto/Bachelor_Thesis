@@ -30,4 +30,4 @@
 
 ## Interaction demo
 
-Due to server side issues a video of the interaction including the analysis API could not be produced.
+A video of the "guide" section and one of a search employing only the Jamendo API are available but due to server side issues a video of the interaction including the analysis API could not be produced.
