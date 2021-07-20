@@ -1,0 +1,17 @@
+{
+  "name": "trackerwebapp",
+  "version": "1.0.0",
+  "description": "WebApp for Tracker, requests data from both Jamendo and a third party music analysis server",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "startBackground": "node index.js >/dev/null 2&>1 &",
+    "startBackgroundLogs": "node index.js &"
+  },
+  "author": "Carlo Zanotto",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "express": "^4.17.1"
+  }
+}
